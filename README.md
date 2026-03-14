@@ -37,7 +37,7 @@ npm run dev
 5. Update `backend/.env`:
 
 ```
-SMTP_USER=adityashaw970@gmail.com
+SMTP_USER=email.com
 SMTP_PASS=<your-16-char-app-password>
 ```
 
@@ -48,7 +48,7 @@ SMTP_PASS=<your-16-char-app-password>
 3. You'll receive an **API key** – update `backend/.env`:
 
 ```
-WHATSAPP_PHONE=+918961414207
+WHATSAPP_PHONE=+91
 WHATSAPP_APIKEY=<your-callmebot-api-key>
 ```
 
