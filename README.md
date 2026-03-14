@@ -24,22 +24,6 @@ npm install
 npm run dev
 ```
 
-Open `http://localhost:5173` in your browser.
-
----
-
-## 👤 Demo Credentials
-
-| Role    | Email                       | Password     |
-|---------|-----------------------------|-------------|
-| Patient | shawabhijeet45@gmail.com    | patient123  |
-| Patient | arunshaw970@gmail.com       | patient123  |
-| Patient | nikitashawwork@gmail.com    | patient123  |
-| Patient | aparupgoswami5@gmail.com    | patient123  |
-| Doctor  | adityashaw970@gmail.com     | doctor123   |
-| Doctor  | nikitashawwork@gmail.com    | doctor123   |
-| Doctor  | aparupgoswami5@gmail.com    | doctor123   |
-
 ---
 
 ## 🔧 External Service Setup
